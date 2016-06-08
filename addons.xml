@@ -16,7 +16,7 @@
 	<extension point="xbmc.service" library="service.py" start="startup">
 	</extension>
 	<extension point="xbmc.addon.metadata">
-		<summary lang="en">test Learn English by watching TV shows and movies</summary>
+		<summary lang="en">Learn English by watching TV shows and movies</summary>
 		<description lang="en">Learn English by watching TV shows and movies</description>
 		<disclaimer lang="en">The author does not host or distribute any of the content displayed by this addon. The author does not have any affiliation with the content provider.</disclaimer>
 	</extension>
